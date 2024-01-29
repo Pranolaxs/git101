@@ -2,5 +2,5 @@
 
 int main(){
 
-    printf("Hellon in Git");
+    printf("Love C");
 }
