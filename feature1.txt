@@ -1,0 +1,4 @@
+This is feaure1.txt
+
+Git102 is so easy
+Zed is the best champion
