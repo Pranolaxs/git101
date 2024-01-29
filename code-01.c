@@ -3,4 +3,5 @@
 int main(){
 
     printf("Love C");
+    printf("Hello C");
 }
